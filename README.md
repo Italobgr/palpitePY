@@ -1,4 +1,4 @@
-# 🎮 Jogo de Adivinhação Numérica
+# Jogo de Adivinhação Numérica
 
 Este é um projeto de estudo desenvolvido em **Python** que implementa um jogo interativo de adivinhação. O diferencial deste código é a atualização dinâmica do intervalo de palpites, Seguindo a logida de uma binary search.
 
