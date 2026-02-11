@@ -23,7 +23,7 @@ O jogo não apenas diz se o palpite foi alto ou baixo, mas também:
 * [Python 3.x](https://www.python.org/)
 * Biblioteca `random` (Nativa)
 
-## 📖 Como Rodar o Jogo
+##  Como Rodar o Jogo
 
 1.  **Clonar o repositório:**
     ```bash
