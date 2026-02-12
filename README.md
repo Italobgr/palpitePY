@@ -31,11 +31,11 @@ O jogo não apenas diz se o palpite foi alto ou baixo, mas também:
     ```
 2.  **Entrar na pasta:**
     ```bash
-    cd seu-repositorio
+    cd palpitePY
     ```
 3.  **Executar o script:**
     ```bash
-    python nome_do_seu_arquivo.py
+    python main.py
     ```
 
 ##  Exemplo de Execução
